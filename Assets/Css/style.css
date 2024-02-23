@@ -11,7 +11,7 @@ body{
 #main{
     height: 100vh;
     width: 100vw;
-    background: url("/Assets/Images/Background-Image.jpg");
+    background: url("./Assets/Images/Background-Image.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
